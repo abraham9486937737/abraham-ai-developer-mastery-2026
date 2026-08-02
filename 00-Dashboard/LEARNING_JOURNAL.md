@@ -320,3 +320,104 @@ Successfully:
 The most important skill in AI-assisted development is not coding alone.
 
 It is the ability to design, structure, and provide high-quality context.
+
+## Context Window
+
+A Context Window is the amount of information an AI model can process and remember during a conversation or task.
+
+Larger Context Window
+=
+More Understanding
+
+Smaller Context Window
+=
+Less Understanding
+
+Context Window can be compared to a developer's working memory while solving a problem.
+
+## Context Compression
+
+Context Compression is the process of reducing large amounts of information into a concise, structured, and meaningful representation without losing essential business knowledge.
+
+Goal:
+
+Large Documentation
+→ Structured Summary
+→ AI Understanding
+
+Example:
+
+MoM Insight 360
+
+500+ pages of project information can be compressed into:
+
+- Business Domain
+- Branches
+- Users
+- KPIs
+- Business Goals
+- Strategic Objectives
+
+This enables AI systems to understand projects efficiently while preserving important business context.
+
+## Enterprise Context Design
+
+Enterprise Context Design is the process of organizing business, technical, operational, and data knowledge into structured context that AI systems can understand and use effectively.
+
+Formula:
+
+Prompt
++ Business Context
++ User Context
++ Data Context
++ Technical Context
++ Rules
+= High Quality AI Output
+
+## Enterprise Context Design
+
+Enterprise AI systems do not work effectively with prompts alone.
+
+They require structured context organized into:
+
+1. Business Context
+2. User Context
+3. Data Context
+4. Technical Context
+5. Rules & Constraints
+
+This structured knowledge enables AI systems to provide accurate, consistent, and business-aligned outputs.
+
+# Day 04 – Enterprise Context Design
+
+## Topics Learned
+
+- Enterprise Context Design
+- Six Layers of Enterprise Context
+- Business Context
+- Domain Context
+- User Context
+- Data Context
+- System Context
+- Technical Context
+
+## Key Understanding
+
+AI systems require much more than prompts.
+
+High-quality AI outputs depend on providing complete business and technical context.
+
+I learned how Enterprise Context Design helps AI understand real-world business problems.
+
+## Real-World Examples
+
+1. MoM Insight 360
+2. IntelliHire Resume Intelligence Studio
+
+## Major Takeaway
+
+Prompt Engineering tells AI what to do.
+
+Context Engineering tells AI what it needs to know.
+
+Enterprise AI success depends on both.
