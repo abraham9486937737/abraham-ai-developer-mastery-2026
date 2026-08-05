@@ -167,3 +167,136 @@ Key Takeaways:
 GitHub Commit:
 
 Yes
+
+### Day 04 – Enterprise Context Design
+
+Study Duration:
+3 Hours
+
+Topics Learned:
+- Enterprise Context Design
+- Business Context
+- User Context
+- Data Context
+- Process Context
+- Technical Context
+
+Practical Exercise:
+Created Enterprise Context Design framework for:
+- MoM Insight 360
+- IntelliHire Resume Intelligence Studio
+
+Key Takeaways:
+AI does not understand business requirements automatically.
+High-quality business context produces high-quality AI outputs.
+
+GitHub Commit:
+Day 04 Enterprise Context Design completed
+
+LinkedIn Post:
+Published Enterprise Context Design learning summary.
+
+### Day 05 – Context Retrieval & RAG Foundations
+
+Study Duration:
+3 Hours
+
+Topics Learned:
+- Retrieval
+- RAG
+- Context Window Challenges
+- RAG Architecture
+- Enterprise AI Retrieval
+
+Practical Work:
+Created Day-05-Context-Retrieval-RAG.md
+
+Examples Studied:
+- MoM Insight 360
+- IntelliHire Resume Intelligence Studio
+
+Key Takeaways:
+RAG improves AI accuracy by retrieving relevant information before generating answers.
+
+My Realization:
+The future of enterprise AI depends on providing the right information rather than all available information.
+
+GitHub Commit:
+Pending
+
+LinkedIn Post:
+Pending
+
+## Day 06 – Embeddings & Vector Databases
+
+Date: 04-Aug-2026
+
+### Activities Completed
+
+✔ Studied Embeddings
+✔ Understood Vectors and Vector Representations
+✔ Learned Semantic Search
+✔ Studied Vector Databases
+✔ Learned Similarity Search
+✔ Understood the role of Embeddings in RAG
+✔ Created Day-06-Embeddings-Vector-Databases.md
+✔ Applied concepts to MoM Insight 360
+✔ Applied concepts to IntelliHire Resume Intelligence Studio
+
+### Key Learning
+
+Traditional databases search by keywords.
+
+Modern AI systems search by meaning.
+
+Embeddings and Vector Databases are the technologies that make semantic search possible.
+
+### Realization
+
+Data alone is not enough.
+
+AI requires:
+- Context
+- Embeddings
+- Vector Search
+- LLM
+
+to generate meaningful business insights.
+
+### Status
+
+Completed
+
+## 05-Aug-2026 – Day 07
+
+Topic:
+Prompt Engineering Fundamentals
+
+Activities Completed:
+
+✓ Studied Prompt Engineering concepts
+✓ Learned Professional Prompt Formula
+✓ Understood Role, Task, Context, Constraints, and Output Format
+✓ Explored weak vs strong prompt examples
+✓ Applied learning to MoM Insight 360
+✓ Applied learning to IntelliHire Resume Intelligence Studio
+✓ Created Day-07-Prompt-Engineering-Fundamentals.md
+✓ Updated Learning Journal
+✓ Updated Daily Log
+
+Key Learning:
+
+Prompt Engineering is the art of giving AI clear and structured instructions.
+
+AI output quality depends largely on the quality of prompts and context provided.
+
+Projects Referenced:
+
+- MoM Insight 360
+- IntelliHire Resume Intelligence Studio
+
+Hours Spent:
+2 – 3 Hours
+
+Status:
+Completed

@@ -421,3 +421,145 @@ Prompt Engineering tells AI what to do.
 Context Engineering tells AI what it needs to know.
 
 Enterprise AI success depends on both.
+
+## Day 04 Reflection
+
+Today I learned that successful AI systems require more than prompts.
+
+Enterprise AI solutions need multiple layers of context:
+
+- Business Context
+- User Context
+- Data Context
+- Process Context
+- Technical Context
+
+Using MoM Insight 360 and IntelliHire as examples helped me understand how enterprise context transforms generic AI responses into valuable business outputs.
+
+My realization:
+
+Traditional software development requires understanding business requirements before coding.
+
+AI Engineering requires understanding business requirements before designing context.
+
+The principle remains the same.
+
+## Day 05 – Context Retrieval & RAG Foundations
+
+Topics Learned:
+- Retrieval
+- Retrieval Augmented Generation (RAG)
+- Context Window Limitations
+- RAG Architecture
+- Enterprise Knowledge Retrieval
+
+Realization:
+
+AI does not need all available information.
+
+AI needs the right information at the right time.
+
+RAG retrieves relevant context before generating answers, making enterprise AI systems more accurate, scalable, and reliable.
+
+Practical Examples:
+- MoM Insight 360
+- IntelliHire Resume Intelligence Studio
+
+## Day 06 – Embeddings & Vector Databases
+
+### Learning Summary
+
+Today I learned how AI understands the meaning of information using Embeddings and how Vector Databases enable semantic search.
+
+In traditional applications, search is based on exact keywords. In AI-powered applications, search is based on meaning.
+
+### Key Concepts Learned
+
+- Embeddings
+- Vectors
+- Semantic Search
+- Vector Databases
+- Similarity Search
+- RAG Architecture
+
+### Traditional Search vs Semantic Search
+
+Traditional Search:
+- Matches exact keywords
+- Limited understanding of context
+
+Semantic Search:
+- Understands meaning
+- Finds related information
+- Produces more relevant results
+
+### Practical Understanding
+
+MoM Insight 360:
+- Retrieve KPI Definitions
+- Retrieve Branch Performance Data
+- Retrieve Budget vs Actual Reports
+- Support management decision making
+
+IntelliHire Resume Intelligence Studio:
+- Resume Matching
+- Skill Similarity Analysis
+- Candidate Ranking
+- Explainable Hiring Recommendations
+
+### Key Realization
+
+AI does not search for words.
+
+AI searches for meaning.
+
+Embeddings convert meaning into vectors, and Vector Databases help AI retrieve the most relevant context before generating answers.
+
+### Outcome
+
+Understood the foundation of modern RAG applications and Enterprise AI systems.
+
+## Day 07 – Prompt Engineering Fundamentals
+Date: 05-Aug-2026
+
+Today I learned the fundamentals of Prompt Engineering and understood why it is considered one of the most important skills in AI Development.
+
+Key concepts learned:
+
+- What Prompt Engineering is
+- Why AI generates poor responses
+- Professional Prompt Formula
+  - Role
+  - Task
+  - Context
+  - Constraints
+  - Output Format
+- Difference between weak and strong prompts
+- Relationship between Prompt Engineering and Context Engineering
+
+Practical Examples:
+
+1. MoM Insight 360
+   - Executive Dashboard Design
+   - KPI Identification
+   - Business Context Driven Prompts
+
+2. IntelliHire Resume Intelligence Studio
+   - Resume Evaluation
+   - Candidate Scoring
+   - Skill Gap Analysis
+
+Key Realization:
+
+AI does not understand intentions automatically.
+
+The quality of AI output depends heavily on:
+
+Prompt Quality + Context Quality
+
+Today's Outcome:
+
+I can now design professional prompts that produce business-focused and structured AI responses.
+
+Status:
+Completed
