@@ -300,3 +300,88 @@ Hours Spent:
 
 Status:
 Completed
+
+## Date: 06-Aug-2026
+
+### Day 08 – Advanced Prompt Engineering Techniques
+
+#### Activities Completed
+
+✔ Learned Zero-Shot Prompting
+
+✔ Learned One-Shot Prompting
+
+✔ Learned Few-Shot Prompting
+
+✔ Learned Chain-of-Thought Prompting
+
+✔ Learned Structured Output Prompting
+
+✔ Learned Prompt Chaining
+
+✔ Learned Prompt Templates
+
+✔ Learned Enterprise Prompt Design Patterns
+
+✔ Documented Day-08-Advanced-Prompt-Engineering-Techniques.md
+
+✔ Updated Learning Journal
+
+✔ Updated Daily Log
+
+---
+
+### Key Learnings
+
+Prompt Engineering becomes significantly more powerful when multiple prompting techniques are combined.
+
+I learned:
+
+- Zero-Shot Prompting is useful for quick tasks without examples.
+- One-Shot Prompting improves consistency using a single example.
+- Few-Shot Prompting teaches AI patterns through multiple examples.
+- Chain-of-Thought Prompting improves reasoning quality.
+- Structured Output Prompting creates machine-readable responses.
+- Prompt Chaining breaks complex tasks into manageable steps.
+- Prompt Templates ensure consistency and reusability.
+- Enterprise AI systems combine multiple prompting techniques to solve business problems.
+
+---
+
+### Practical Applications
+
+#### MoM Insight 360
+
+Applied Prompt Chaining, Chain-of-Thought, and Structured Output techniques to generate executive insights and business recommendations.
+
+#### IntelliHire Resume Intelligence Studio
+
+Applied Few-Shot Prompting, Prompt Templates, and Structured Outputs to improve resume evaluation and candidate matching.
+
+---
+
+### Key Realization
+
+Basic prompts generate answers.
+
+Advanced Prompt Engineering generates reliable, explainable, and business-ready solutions.
+
+The quality of AI outcomes improves significantly when prompts are structured strategically.
+
+---
+
+### Hours Invested
+
+2 – 3 Hours
+
+---
+
+### Status
+
+✅ Completed
+
+---
+
+### Next Topic
+
+Day 09 – AI Agents Fundamentals

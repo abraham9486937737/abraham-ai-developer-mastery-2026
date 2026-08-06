@@ -563,3 +563,70 @@ I can now design professional prompts that produce business-focused and structur
 
 Status:
 Completed
+
+## Day 08 – Advanced Prompt Engineering Techniques
+
+Date: 06-Aug-2026
+
+### Learning Summary
+
+Today I learned advanced prompt engineering techniques used in modern AI applications and enterprise AI systems.
+
+I moved beyond basic prompting and understood how professional AI developers guide AI models using structured prompting techniques.
+
+### Key Concepts Learned
+
+- Zero-Shot Prompting
+- One-Shot Prompting
+- Few-Shot Prompting
+- Chain-of-Thought Prompting
+- Structured Output Prompting
+- Prompt Chaining
+- Prompt Templates
+- Enterprise Prompt Design Patterns
+
+### My Understanding
+
+Zero-Shot Prompting works without examples.
+
+One-Shot Prompting provides a single example.
+
+Few-Shot Prompting provides multiple examples to help AI learn patterns.
+
+Chain-of-Thought Prompting improves reasoning by asking AI to think step by step.
+
+Structured Output Prompting helps AI return responses in a predefined format such as JSON, tables, or structured reports.
+
+Prompt Chaining breaks complex tasks into smaller steps.
+
+Prompt Templates improve consistency and reusability.
+
+Enterprise Prompt Design Patterns combine multiple prompting techniques to create business-ready AI solutions.
+
+### Practical Examples
+
+#### MoM Insight 360
+
+Used Prompt Chaining, Structured Output, and Chain-of-Thought techniques to generate executive business insights from branch performance data.
+
+#### IntelliHire Resume Intelligence Studio
+
+Used Few-Shot Prompting, Structured Outputs, and Prompt Templates to evaluate candidate suitability and generate hiring recommendations.
+
+### Key Realization
+
+Prompt Engineering is not simply asking questions.
+
+Prompt Engineering is designing instructions that guide AI toward accurate, reliable, and business-focused outcomes.
+
+### Important Lesson
+
+Good prompts generate answers.
+
+Great prompt systems generate solutions.
+
+### Outcome
+
+I now understand how enterprise AI systems combine multiple prompting techniques to improve accuracy, consistency, reasoning, and business value.
+
+Status: Completed
