@@ -385,3 +385,118 @@ The quality of AI outcomes improves significantly when prompts are structured st
 ### Next Topic
 
 Day 09 – AI Agents Fundamentals
+
+## Date: 07-Aug-2026
+
+### Day 09 – AI Agents & Tool Calling Fundamentals
+
+#### Activities Completed
+
+✔ Learned what an AI Agent is
+
+✔ Understood the difference between Traditional LLMs and AI Agents
+
+✔ Learned Tool Calling Fundamentals
+
+✔ Studied Agent Reasoning Workflow
+
+✔ Learned Agent Planning and Execution Cycle
+
+✔ Understood Agent Memory Concepts
+
+✔ Learned Single-Agent Architecture
+
+✔ Learned Multi-Agent Architecture
+
+✔ Explored Enterprise Agent Design Patterns
+
+✔ Studied Real-World Agent Examples
+
+✔ Updated Day-09-AI-Agents-Tool-Calling-Fundamentals.md
+
+✔ Updated Learning Journal
+
+✔ Updated Daily Log
+
+---
+
+### Key Learnings
+
+AI Agents extend the capabilities of Large Language Models by enabling them to interact with tools, systems, databases, APIs, and external data sources.
+
+Unlike traditional AI systems that only generate answers, AI Agents can:
+
+- Reason
+- Plan
+- Use Tools
+- Execute Actions
+- Observe Results
+- Deliver Outcomes
+
+I learned that Tool Calling is one of the most important concepts in modern AI systems because it allows AI to access real-time information instead of relying only on training data.
+
+---
+
+### Practical Applications
+
+#### MoM Insight 360
+
+An AI Agent can:
+
+- Retrieve branch performance data
+- Compare budget vs actual revenue
+- Analyze KPI trends
+- Generate executive summaries
+- Recommend business actions
+
+Tools Used:
+
+- SQL Database
+- KPI Engine
+- Reporting Services
+
+---
+
+#### IntelliHire Resume Intelligence Studio
+
+An AI Agent can:
+
+- Read job descriptions
+- Search candidate profiles
+- Calculate match scores
+- Rank candidates
+- Generate hiring recommendations
+
+Tools Used:
+
+- Resume Database
+- Embedding Search
+- Matching Engine
+
+---
+
+### Key Realization
+
+Prompt Engineering helps AI answer questions.
+
+AI Agents help AI complete tasks.
+
+Tool Calling is the bridge that connects AI with real-world systems and business processes.
+
+---
+
+### Hours Invested
+
+2 – 3 Hours
+
+---
+
+### Status
+
+✅ Completed
+
+---
+
+### Next Topic
+
+Day 10 – Agent Memory Systems & Context Management

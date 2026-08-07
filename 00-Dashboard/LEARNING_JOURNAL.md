@@ -630,3 +630,38 @@ Great prompt systems generate solutions.
 I now understand how enterprise AI systems combine multiple prompting techniques to improve accuracy, consistency, reasoning, and business value.
 
 Status: Completed
+
+## Day 09 – AI Agents & Tool Calling Fundamentals
+
+Today I learned how AI evolves from a simple chatbot into an intelligent agent capable of performing real-world tasks.
+
+Key concepts learned:
+
+- AI Agent architecture
+- Tool Calling fundamentals
+- Agent reasoning workflow
+- Planning and execution cycle
+- Memory in AI Agents
+- Single-Agent vs Multi-Agent systems
+- Enterprise Agent architectures
+- Real-world applications in MoM Insight 360
+- Real-world applications in IntelliHire
+
+Most Important Realization:
+
+LLMs generate answers.
+
+Agents achieve goals.
+
+Tool Calling allows AI to interact with databases, APIs, files, and external systems, making AI significantly more useful in enterprise environments.
+
+This topic connected many previous concepts:
+
+Prompt Engineering
+→ Context Engineering
+→ RAG
+→ Embeddings
+→ Tool Calling
+→ AI Agents
+
+I now understand how modern AI applications are built beyond simple chat interfaces.
