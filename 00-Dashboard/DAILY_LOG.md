@@ -500,3 +500,21 @@ Tool Calling is the bridge that connects AI with real-world systems and business
 ### Next Topic
 
 Day 10 – Agent Memory Systems & Context Management
+
+## 2026-08-09
+
+Completed Day 11 – Advanced RAG Patterns.
+
+Topics Covered:
+- Hybrid Search
+- Reranking
+- Metadata Filtering
+- Query Transformation
+- Multi-Query Retrieval
+- Parent-Child Retrieval
+- Context Compression
+- RAG Evaluation Metrics
+- Enterprise RAG Architecture
+
+Outcome:
+Understood how modern enterprise RAG systems improve retrieval quality and support production AI applications.

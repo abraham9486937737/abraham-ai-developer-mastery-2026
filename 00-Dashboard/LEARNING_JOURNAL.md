@@ -665,3 +665,13 @@ Prompt Engineering
 → AI Agents
 
 I now understand how modern AI applications are built beyond simple chat interfaces.
+
+## Day 11 – Advanced RAG Patterns
+
+Date: 2026-08-09
+
+Today I learned how enterprise-grade Retrieval-Augmented Generation (RAG) systems go beyond basic vector search. I explored Hybrid Search, Reranking, Metadata Filtering, Query Transformation, Multi-Query Retrieval, Parent-Child Retrieval, and Context Compression.
+
+I learned how these techniques improve retrieval accuracy, reduce hallucinations, lower token costs, and provide better AI responses. I also connected these concepts with my MoM Insight 360 and IntelliHire projects.
+
+This knowledge will help me design scalable and production-ready AI systems.
