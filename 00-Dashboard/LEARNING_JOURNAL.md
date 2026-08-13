@@ -675,3 +675,39 @@ Today I learned how enterprise-grade Retrieval-Augmented Generation (RAG) system
 I learned how these techniques improve retrieval accuracy, reduce hallucinations, lower token costs, and provide better AI responses. I also connected these concepts with my MoM Insight 360 and IntelliHire projects.
 
 This knowledge will help me design scalable and production-ready AI systems.
+
+## Day 12 – AI Agents & Agent Architectures (Part 1)
+Date: 13-Aug-2026
+
+### Topics Learned
+- Introduction to AI Agents
+- Difference Between LLMs and AI Agents
+- Core Components of AI Agents
+- Memory Systems
+- Reasoning Engine
+- Planning Module
+- Action Layer
+- Feedback and Learning Loop
+- Agent Workflow Architecture
+- Real-world Agent Applications
+
+### Key Insights
+- AI Agents are capable of performing tasks, not just answering questions.
+- Agents combine memory, reasoning, planning, and actions.
+- Feedback loops allow continuous improvement.
+- Agent architectures form the foundation of modern autonomous AI systems.
+- Enterprise AI applications increasingly rely on agent-based workflows.
+
+### Real-World Mapping
+MoM Insight 360:
+- KPI Retrieval
+- Revenue Analysis
+- Executive Insight Generation
+
+IntelliHire Resume Studio:
+- Resume Analysis
+- Candidate Ranking
+- Job Matching
+
+### Personal Reflection
+Today I understood the transition from traditional AI assistants to autonomous AI agents. The most interesting learning was how memory, reasoning, planning, and actions work together to create intelligent systems capable of completing tasks with minimal human intervention.

@@ -518,3 +518,26 @@ Topics Covered:
 
 Outcome:
 Understood how modern enterprise RAG systems improve retrieval quality and support production AI applications.
+
+## 13-Aug-2026
+
+### Learning Activity
+Completed Day 12 Part 1:
+AI Agents & Agent Architectures
+
+### Topics Covered
+- What are AI Agents
+- Agent Components
+- Memory
+- Reasoning
+- Planning
+- Actions
+- Feedback Loop
+- Agent Workflow
+
+### Outcome
+Gained foundational understanding of AI Agents and their architecture. Learned how agents differ from traditional LLM-based systems and how they can perform autonomous task execution.
+
+### Next Step
+Continue Day 12 Part 2:
+Advanced Agent Architectures, Multi-Agent Systems, Tool Use, and Enterprise Agent Design.
