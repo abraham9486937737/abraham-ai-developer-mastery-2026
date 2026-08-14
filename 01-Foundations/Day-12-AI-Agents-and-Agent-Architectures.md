@@ -338,3 +338,440 @@ Together, these capabilities allow AI systems to move closer to completing real-
 ### Next
 
 **Day 12 – Part 2: Advanced Agent Architectures, Tool Calling, Agent Memory, Multi-Agent Systems, Agentic RAG and Enterprise Agent Design**
+
+Day 12 – AI Agents & Agent Architectures
+Part 2 – Advanced Agent Architectures
+Learning Objective
+
+Understand how modern AI systems use multiple agents, memory, tools, planning, and reflection to solve complex business problems.
+
+Why Agent Architectures Matter
+
+Traditional AI systems answer questions.
+
+Agent-based AI systems can:
+
+Plan tasks
+Use tools
+Make decisions
+Collaborate with other agents
+Learn from feedback
+Execute multi-step workflows
+
+This makes them suitable for enterprise applications.
+
+Single Agent Architecture
+
+A single agent handles the complete workflow.
+
+Flow
+User Request
+      ↓
+   Agent
+      ↓
+ Tool Usage
+      ↓
+ Response
+Advantages
+Easy to build
+Lower cost
+Faster implementation
+Suitable for simple tasks
+Limitations
+Difficult to scale
+Limited specialization
+Complex workflows become difficult
+Example
+
+Resume screening assistant
+
+User uploads resume
+
+↓
+
+Agent reads resume
+
+↓
+
+Compares with job description
+
+↓
+
+Returns match score
+
+Multi-Agent Architecture
+
+Multiple agents collaborate to solve a problem.
+
+Flow
+User Request
+       ↓
+Coordinator Agent
+       ↓
+ ┌─────────────┬─────────────┬─────────────┐
+ ↓             ↓             ↓
+Research     Analysis     Planning
+ Agent        Agent        Agent
+       ↓
+Reporting Agent
+       ↓
+Final Response
+Advantages
+Better scalability
+Improved accuracy
+Specialized expertise
+Easier maintenance
+Example
+
+Business Intelligence Platform
+
+Research Agent → Collect KPIs
+
+Analysis Agent → Analyze trends
+
+Forecast Agent → Predict growth
+
+Reporting Agent → Generate insights
+
+Tool-Using Agents
+
+Agents become powerful when they can access external tools.
+
+Examples:
+
+Databases
+SQL Server
+PostgreSQL
+MySQL
+APIs
+Weather APIs
+Payment APIs
+CRM APIs
+Search
+Enterprise search
+Internet search
+Documents
+PDF
+Word
+Excel
+Analytics
+Power BI
+Tableau
+Python
+Planning Agents
+
+Planning agents break large goals into smaller tasks.
+
+Example
+
+Goal:
+
+Create Monthly Revenue Report
+
+Plan
+
+Step 1 → Retrieve Revenue Data
+
+Step 2 → Clean Data
+
+Step 3 → Analyze Trends
+
+Step 4 → Generate Charts
+
+Step 5 → Create Executive Summary
+
+Step 6 → Deliver Report
+
+This improves reliability and task completion.
+
+Reflection Agents
+
+Reflection is the ability of an AI agent to review its own work.
+
+Process
+Think
+   ↓
+Act
+   ↓
+Review
+   ↓
+Improve
+
+Benefits:
+
+Better quality responses
+Reduced errors
+Continuous improvement
+Memory Systems
+
+Modern agents use memory to improve performance.
+
+Short-Term Memory
+
+Current conversation context
+
+Long-Term Memory
+
+Historical interactions
+
+Knowledge Memory
+
+External knowledge sources
+
+Examples:
+
+Vector databases
+Knowledge bases
+Company documents
+Agent Frameworks
+LangGraph
+
+Features:
+
+Stateful workflows
+Multi-agent orchestration
+Human-in-the-loop support
+
+Use Cases:
+
+Enterprise AI
+Complex workflows
+CrewAI
+
+Features:
+
+Role-based agents
+Agent collaboration
+
+Use Cases:
+
+Research teams
+Business workflows
+AutoGen
+
+Features:
+
+Agent-to-agent communication
+Collaborative problem solving
+
+Use Cases:
+
+Automation
+AI team simulations
+Real-World Application – MoM Insight 360
+
+Possible Agents:
+
+KPI Agent
+
+Retrieve KPIs
+
+Revenue Agent
+
+Analyze revenue trends
+
+Forecast Agent
+
+Predict future growth
+
+Executive Agent
+
+Generate business insights
+
+Real-World Application – IntelliHire Resume Studio
+
+Possible Agents:
+
+Resume Agent
+
+Read resumes
+
+JD Matching Agent
+
+Compare job descriptions
+
+Ranking Agent
+
+Rank candidates
+
+Reporting Agent
+
+Generate hiring reports
+
+Future of AI Agents
+
+Emerging Trends:
+
+Autonomous Agents
+Multi-Agent Teams
+Agentic RAG
+Self-Improving Agents
+Enterprise AI Assistants
+AI Workforce Collaboration
+Key Takeaway
+
+AI is evolving beyond chatbots.
+
+The future belongs to intelligent agents that can:
+
+Reason
+Plan
+Use tools
+Collaborate
+Learn
+Execute tasks
+
+A single AI assistant is powerful.
+
+A coordinated team of AI agents is transformational.
+
+Agent Frameworks Cheat Sheet
+1. LangGraph
+What is it?
+
+LangGraph is a framework built on LangChain that helps create stateful AI agent workflows using graph-based execution.
+
+Key Features
+Stateful workflows
+Multi-agent orchestration
+Human-in-the-loop support
+Complex decision trees
+Memory integration
+Best For
+
+✅ Enterprise AI Applications
+✅ Long-running workflows
+✅ Agentic RAG Systems
+✅ Multi-step reasoning
+
+Example
+User Query
+    ↓
+Research Agent
+    ↓
+Analysis Agent
+    ↓
+Reporting Agent
+    ↓
+Final Response
+Learning Note
+
+Think of LangGraph as:
+
+"Workflow Engine for AI Agents"
+
+2. CrewAI
+What is it?
+
+CrewAI allows multiple AI agents to work together as a team, where each agent has a specific role and responsibility.
+
+Key Features
+Role-based agents
+Agent collaboration
+Task delegation
+Sequential workflows
+Team-based execution
+Best For
+
+✅ Research Teams
+✅ Business Process Automation
+✅ Recruitment Systems
+✅ Analytics Projects
+
+Example
+Manager Agent
+      ↓
+ ┌────┴────┐
+ ↓         ↓
+Research  Analysis
+ Agent     Agent
+      ↓
+Report Agent
+      ↓
+Final Output
+Learning Note
+
+Think of CrewAI as:
+
+"AI Employees Working as a Team"
+
+3. AutoGen
+What is it?
+
+AutoGen is a Microsoft framework that enables agents to communicate and collaborate automatically.
+
+Key Features
+Agent-to-agent communication
+Collaborative problem solving
+Conversation-based workflows
+Human-agent collaboration
+Best For
+
+✅ Software Development Agents
+✅ Research Automation
+✅ Complex Decision Making
+
+Example
+Developer Agent
+       ↔
+Reviewer Agent
+       ↔
+Testing Agent
+       ↓
+Final Solution
+Learning Note
+
+Think of AutoGen as:
+
+"Agents Talking to Each Other"
+
+4. OpenAI Agents SDK
+What is it?
+
+A framework for building AI agents using OpenAI models with tools, memory, handoffs, and workflows.
+
+Key Features
+Tool calling
+Agent handoffs
+Multi-agent systems
+Memory support
+Workflow orchestration
+Best For
+
+✅ Production Applications
+✅ AI Assistants
+✅ Enterprise Automation
+
+Learning Note
+
+Think of OpenAI Agents SDK as:
+
+"Production-Ready AI Agent Framework"
+
+Framework Comparison
+Framework	Main Focus	Best For
+LangGraph	Workflow Orchestration	Complex Enterprise Workflows
+CrewAI	Team-Based Agents	Multi-Agent Collaboration
+AutoGen	Agent Communication	Collaborative Problem Solving
+OpenAI Agents SDK	Production Agents	Enterprise Applications
+Easy Memory Trick
+LangGraph  → Workflow
+CrewAI     → Teamwork
+AutoGen    → Communication
+OpenAI SDK → Production
+My Personal Understanding
+LangGraph
+   ↓
+Build Agent Workflows
+
+CrewAI
+   ↓
+Build Agent Teams
+
+AutoGen
+   ↓
+Enable Agent Conversations
+
+OpenAI Agents SDK
+   ↓
+Deploy Production Agents

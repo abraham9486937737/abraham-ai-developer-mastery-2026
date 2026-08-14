@@ -711,3 +711,83 @@ IntelliHire Resume Studio:
 
 ### Personal Reflection
 Today I understood the transition from traditional AI assistants to autonomous AI agents. The most interesting learning was how memory, reasoning, planning, and actions work together to create intelligent systems capable of completing tasks with minimal human intervention.
+
+## 2026-08-13 – Day 12: AI Agents & Agent Architectures
+
+### Topics Learned
+
+- What is an AI Agent
+- Core Components of an AI Agent
+  - Memory
+  - Reasoning
+  - Planning
+  - Action Execution
+  - Feedback & Learning
+- Single Agent Architecture
+- Multi-Agent Architecture
+- Tool-Using Agents
+- Planning Agents
+- Reflection Agents
+- Agent Memory Systems
+- Agent Frameworks
+  - LangGraph
+  - CrewAI
+  - AutoGen
+  - OpenAI Agents SDK
+- Real-world Enterprise Agent Use Cases
+
+### Key Insights
+
+AI is evolving beyond traditional chatbots.
+
+Modern AI Agents can:
+- Reason
+- Plan
+- Use external tools
+- Execute actions
+- Learn from feedback
+- Collaborate with other agents
+
+Multi-Agent Systems enable specialized agents to work together and solve complex business problems more effectively than a single agent.
+
+### Framework Understanding
+
+LangGraph
+- Workflow orchestration for AI agents
+
+CrewAI
+- Team-based collaboration between agents
+
+AutoGen
+- Agent-to-agent communication and cooperation
+
+OpenAI Agents SDK
+- Production-ready agent development framework
+
+### Real-World Mapping
+
+MoM Insight 360
+- KPI Agent
+- Revenue Agent
+- Forecast Agent
+- Executive Reporting Agent
+
+IntelliHire Resume Studio
+- Resume Agent
+- JD Matching Agent
+- Ranking Agent
+- Reporting Agent
+
+### Key Takeaway
+
+"The future of AI is not a single assistant doing everything. The future is a team of intelligent agents collaborating to solve real business problems."
+
+### Confidence Level
+
+7.5 / 10
+
+Need further hands-on experience with:
+- CrewAI
+- LangGraph
+- Agentic Workflows
+- OpenAI Agents SDK
