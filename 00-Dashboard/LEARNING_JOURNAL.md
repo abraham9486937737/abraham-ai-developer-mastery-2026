@@ -811,3 +811,54 @@ I also connected Agentic RAG concepts to my own projects:
 - IntelliHire Resume Studio
 
 The biggest realization today was that Agentic RAG does not simply retrieve information. It decides what information is needed, evaluates results, and can perform additional retrieval cycles to improve answer quality.
+
+## 2026-08-15 — Day 13 (Part 2) — Agentic RAG Implementation Patterns
+
+Today I continued my learning journey on Agentic RAG and explored how AI agents go beyond traditional retrieval by planning, reasoning, validating, and improving their responses.
+
+Topics Covered:
+- Retrieval Planning
+- Query Decomposition
+- Multi-Step Retrieval
+- Reflection Loops
+- Self-Correction
+- Tool-Augmented Retrieval
+- Enterprise Agentic RAG Workflows
+
+Key Learnings:
+
+Traditional RAG follows a simple retrieval-to-answer process.
+
+Agentic RAG introduces:
+- Planning
+- Reasoning
+- Decision Making
+- Reflection
+- Validation
+- Continuous Improvement
+
+I learned how agents can:
+- Decide when retrieval is needed
+- Break complex problems into smaller tasks
+- Perform multiple retrieval cycles
+- Evaluate their own answers
+- Correct mistakes automatically
+- Use tools such as databases, APIs, documents, and search systems
+
+Practical Applications:
+
+MoM Insight 360:
+- KPI Analysis
+- Revenue Investigation
+- Branch Performance Insights
+- Executive Decision Support
+
+IntelliHire Resume Studio:
+- Resume Evaluation
+- Job Matching
+- Candidate Ranking
+- Recruitment Reporting
+
+Key Takeaway:
+
+Agentic RAG transforms retrieval into an intelligent reasoning process where AI agents can plan, retrieve, validate, reflect, and continuously improve answer quality.

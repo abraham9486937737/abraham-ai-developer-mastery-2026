@@ -247,3 +247,200 @@ Day 13 Part 2
 - Reflection Loops
 - Multi-Step Retrieval
 - Advanced Agentic RAG Patterns
+
+Day 13 — Part 2
+Agentic RAG Implementation Patterns
+Learning Objective
+
+Understand how AI agents:
+
+Plan retrieval strategies
+Decide when retrieval is required
+Break complex tasks into smaller tasks
+Use tools intelligently
+Reflect on their answers
+Self-correct mistakes
+Improve answer quality through iterative reasoning
+1. Retrieval Planning
+
+Traditional RAG:
+
+Question
+   ↓
+Retrieve
+   ↓
+Answer
+
+Agentic RAG:
+
+Question
+   ↓
+Plan
+   ↓
+Retrieve
+   ↓
+Analyze
+   ↓
+Retrieve Again
+   ↓
+Answer
+
+The agent first decides:
+
+What information is needed?
+Where can I find it?
+Which tool should I use?
+Example
+
+User asks:
+
+Which branch generated the highest revenue last quarter?
+
+Agent plan:
+
+Step 1: Find branch revenue data
+Step 2: Compare branches
+Step 3: Validate results
+Step 4: Generate answer
+2. Query Decomposition
+
+Complex questions are split into smaller questions.
+
+User Query
+Why did JP Nagar revenue decrease while
+Sahakar Nagar increased?
+
+Agent creates:
+
+Q1 Revenue of JP Nagar?
+Q2 Revenue of Sahakar Nagar?
+Q3 Appointment count?
+Q4 Doctor referrals?
+Q5 Final comparison?
+
+This improves retrieval quality.
+
+3. Multi-Step Retrieval
+
+Instead of one search:
+
+Search Once
+Answer
+
+Agentic RAG performs:
+
+Retrieve
+Analyze
+Retrieve Again
+Validate
+Answer
+MoM Insight 360 Example
+
+Executive asks:
+
+Why is revenue down?
+
+Agent:
+
+Retrieve revenue
+Retrieve scans
+Retrieve doctors
+Retrieve appointments
+Analyze relationships
+Generate explanation
+4. Reflection Loop
+
+After generating an answer:
+
+Agent asks itself:
+
+Is this answer complete?
+
+Do I need more information?
+
+Should I verify this result?
+
+This is called Reflection.
+
+5. Self-Correction
+
+Agent discovers an issue:
+
+Answer confidence low
+
+Then:
+
+Retrieve more data
+Validate again
+Improve answer
+
+Process:
+
+Think
+Review
+Correct
+Answer
+6. Tool-Augmented Retrieval
+
+Modern agents can use multiple tools.
+
+Examples:
+
+Databases
+SQL Server
+PostgreSQL
+MySQL
+APIs
+Weather API
+Finance API
+CRM API
+Documents
+PDF
+Word
+Excel
+Search
+Enterprise Search
+Vector Database
+Web Search
+7. Enterprise Example – MoM Insight 360
+
+Question:
+
+Which branch missed its target and why?
+
+Agent workflow:
+
+Get target
+Get actual revenue
+Calculate gap
+Analyze appointments
+Analyze doctor referrals
+Identify causes
+Generate report
+8. Enterprise Example – IntelliHire Resume Studio
+
+Recruiter asks:
+
+Find the best Python developer.
+
+Agent:
+
+Retrieve resumes
+Extract skills
+Compare JD
+Rank candidates
+Generate report
+9. Key Difference
+Traditional RAG
+Retrieve → Answer
+Agentic RAG
+Plan
+Reason
+Retrieve
+Validate
+Reflect
+Correct
+Answer
+Part 2 Key Takeaway
+
+Agentic RAG is not just retrieval. It adds planning, reasoning, validation, reflection, and self-correction to make AI systems more intelligent and reliable.

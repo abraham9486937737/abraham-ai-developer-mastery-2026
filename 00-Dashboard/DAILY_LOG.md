@@ -618,3 +618,30 @@ Completed:
 
 Outcome:
 Understanding how AI agents can enhance retrieval systems through planning, reasoning, and iterative information gathering.
+
+### Day 13 – Agentic RAG (Part 2)
+
+Date: 15-Aug-2026
+
+Activities Completed:
+
+✓ Learned Retrieval Planning
+✓ Studied Query Decomposition
+✓ Explored Multi-Step Retrieval
+✓ Understood Reflection Loops
+✓ Learned Self-Correction Techniques
+✓ Studied Tool-Augmented Retrieval
+✓ Analyzed Enterprise Agentic RAG Use Cases
+
+Knowledge Gained:
+
+- Intelligent Retrieval Planning
+- Multi-Step Reasoning
+- Agent Reflection Mechanisms
+- Self-Correction Strategies
+- Tool Integration Patterns
+- Enterprise AI Decision Workflows
+
+Outcome:
+
+Successfully completed Day 13 Part 2 and gained a practical understanding of how Agentic RAG systems plan, reason, retrieve, validate, and improve responses to solve complex business problems.
