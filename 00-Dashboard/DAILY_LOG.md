@@ -604,3 +604,17 @@ Day 13 – Agentic RAG & Tool Calling
 ### Status
 
 COMPLETED ✅
+
+### Day 13 – Agentic RAG (Part 1)
+
+Completed:
+- Learned Agentic RAG fundamentals
+- Compared Traditional RAG vs Agentic RAG
+- Studied agent reasoning and retrieval planning
+- Learned evaluation-driven retrieval
+- Documented enterprise use cases
+- Created Day 13 learning notes
+- Prepared LinkedIn post and infographic
+
+Outcome:
+Understanding how AI agents can enhance retrieval systems through planning, reasoning, and iterative information gathering.

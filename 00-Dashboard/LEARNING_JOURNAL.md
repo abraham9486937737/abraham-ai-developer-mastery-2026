@@ -791,3 +791,23 @@ Need further hands-on experience with:
 - LangGraph
 - Agentic Workflows
 - OpenAI Agents SDK
+
+## Day 13 – Agentic RAG (Part 1)
+
+Today I learned how Agentic RAG extends traditional Retrieval-Augmented Generation by introducing reasoning, planning, evaluation, and iterative retrieval capabilities.
+
+Key concepts learned:
+
+- Traditional RAG vs Agentic RAG
+- Agent Reasoning
+- Retrieval Planning
+- Evaluation Layer
+- Iterative Retrieval
+- Enterprise AI Applications
+
+I also connected Agentic RAG concepts to my own projects:
+
+- MoM Insight 360
+- IntelliHire Resume Studio
+
+The biggest realization today was that Agentic RAG does not simply retrieve information. It decides what information is needed, evaluates results, and can perform additional retrieval cycles to improve answer quality.
