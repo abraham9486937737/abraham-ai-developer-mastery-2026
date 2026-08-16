@@ -645,3 +645,23 @@ Knowledge Gained:
 Outcome:
 
 Successfully completed Day 13 Part 2 and gained a practical understanding of how Agentic RAG systems plan, reason, retrieve, validate, and improve responses to solve complex business problems.
+
+## 16-Aug-2026
+
+### Learning Activity
+Completed Day 14 Part 1 – Multi-Agent Systems.
+
+### Topics Covered
+- Introduction to Multi-Agent Systems
+- Single-Agent vs Multi-Agent Architectures
+- Agent Collaboration Models
+- Supervisor-Worker Pattern
+- Specialized Agent Roles
+- Enterprise AI Agent Teams
+
+### Outcome
+Gained a strong understanding of how multiple AI agents collaborate to solve complex workflows and how these architectures can be applied to enterprise projects such as MoM Insight 360 and IntelliHire Resume Studio.
+
+### Status
+✅ Day 14 Part 1 Completed
+⏳ Day 14 Part 2 Pending

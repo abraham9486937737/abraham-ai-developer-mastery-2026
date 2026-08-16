@@ -862,3 +862,45 @@ IntelliHire Resume Studio:
 Key Takeaway:
 
 Agentic RAG transforms retrieval into an intelligent reasoning process where AI agents can plan, retrieve, validate, reflect, and continuously improve answer quality.
+
+## Day 14 – Multi-Agent Systems (Part 1)
+
+### Date
+16-Aug-2026
+
+### Topic
+Multi-Agent Systems (MAS)
+
+### What I Learned
+Today I learned how multiple AI agents can collaborate to solve complex tasks more efficiently than a single agent.
+
+Key concepts learned:
+- What is a Multi-Agent System (MAS)
+- Single-Agent vs Multi-Agent Architectures
+- Agent Roles and Responsibilities
+- Collaboration and Coordination
+- Supervisor and Worker Agent Patterns
+- Enterprise Use Cases for Multi-Agent Systems
+
+### Key Takeaways
+- One agent can become overloaded when handling complex workflows.
+- Multi-Agent Systems divide responsibilities among specialized agents.
+- Each agent focuses on a specific task and collaborates with others.
+- MAS improves scalability, accuracy, and maintainability.
+- Future enterprise AI applications will increasingly use multi-agent architectures.
+
+### Real-World Applications
+#### MoM Insight 360
+- KPI Agent
+- Revenue Analysis Agent
+- Forecasting Agent
+- Reporting Agent
+
+#### IntelliHire Resume Studio
+- Resume Parsing Agent
+- Skill Matching Agent
+- Ranking Agent
+- Recommendation Agent
+
+### Reflection
+Today’s learning helped me understand how enterprise AI systems scale beyond a single agent. Multi-Agent Systems provide a practical architecture for solving large and complex business problems through collaboration between specialized AI agents.
