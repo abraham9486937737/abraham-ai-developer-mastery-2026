@@ -345,3 +345,292 @@ Multi-Agent architectures
 Enterprise use cases
 MoM Insight 360 implementation ideas
 IntelliHire Resume Studio implementation ideas
+
+Day 14 – Part 2
+Communication, Coordination & Orchestration
+Learning Objectives
+
+By the end of this section, you will understand:
+
+How agents communicate
+How agents coordinate work
+How orchestration works
+Common Multi-Agent patterns
+Enterprise implementations
+How LangGraph and CrewAI handle orchestration
+1. Why Agent Communication Matters
+
+Imagine a company where:
+
+Sales team never talks to Finance
+Finance never talks to Operations
+Operations never talks to Management
+
+Chaos.
+
+The same happens in Multi-Agent AI systems.
+
+Agents must exchange information efficiently.
+
+Without communication:
+
+❌ Duplicate work
+
+❌ Wrong decisions
+
+❌ Missing context
+
+❌ Poor results
+
+With communication:
+
+✅ Shared context
+
+✅ Better collaboration
+
+✅ Better decisions
+
+✅ Faster execution
+
+2. Agent Communication Flow
+User Request
+      │
+      ▼
+Coordinator Agent
+      │
+ ┌────┼────┐
+ ▼    ▼    ▼
+Research Analysis Planning
+Agent    Agent    Agent
+ │        │        │
+ └────┬───┴────┬───┘
+      ▼
+Reporting Agent
+      ▼
+Final Response
+
+Each agent contributes knowledge.
+
+The reporting agent combines everything.
+
+3. Agent Coordination
+
+Communication = Sharing Information
+
+Coordination = Managing Work
+
+Example:
+
+Coordinator Agent decides:
+
+Research Agent
+→ Collect information
+
+Analysis Agent
+→ Analyze data
+
+Planning Agent
+→ Build strategy
+
+Reporting Agent
+→ Prepare response
+
+Each agent knows:
+
+What to do
+When to do it
+What output to provide
+4. Orchestration
+
+Orchestration is the process of controlling all agents.
+
+Think of it as:
+
+Conductor → Orchestra
+Manager → Team
+Supervisor → Workers
+
+The orchestrator:
+
+Assigns tasks
+Monitors progress
+Collects results
+Handles failures
+Delivers final output
+5. Common Multi-Agent Patterns
+Pattern 1 – Supervisor / Worker
+Supervisor Agent
+      │
+ ┌────┼────┐
+ ▼    ▼    ▼
+Worker Worker Worker
+
+Most common enterprise architecture.
+
+Examples:
+
+CrewAI
+LangGraph
+
+Benefits:
+
+Easy management
+Scalable
+Clear responsibilities
+Pattern 2 – Sequential Pipeline
+Agent A
+   ↓
+Agent B
+   ↓
+Agent C
+
+Output of one agent becomes input for another.
+
+Example:
+
+Resume Parsing
+→ Skill Matching
+→ Candidate Ranking
+
+Pattern 3 – Parallel Agents
+          User Query
+               │
+ ┌─────────────┼─────────────┐
+ ▼             ▼             ▼
+Agent A     Agent B      Agent C
+
+All agents work simultaneously.
+
+Benefits:
+
+Faster execution
+Better scalability
+6. Failure Handling
+
+Enterprise systems must handle failures.
+
+Example:
+
+Research Agent Failed
+      ↓
+Retry
+      ↓
+Escalate
+      ↓
+Alternative Agent
+
+Strategies:
+
+Retry
+Timeout
+Fallback Agent
+Human Approval
+7. LangGraph for Multi-Agent Systems
+
+LangGraph provides:
+
+✅ Agent orchestration
+
+✅ State management
+
+✅ Agent communication
+
+✅ Workflow control
+
+Example:
+
+User
+ ↓
+Supervisor
+ ↓
+Research Agent
+ ↓
+Analysis Agent
+ ↓
+Response Agent
+
+Best for:
+
+Enterprise workflows
+Complex reasoning
+Agentic RAG
+8. CrewAI for Multi-Agent Systems
+
+CrewAI focuses on:
+
+Teams of agents
+Role-based collaboration
+Autonomous task execution
+
+Example:
+
+Researcher
+   ↓
+Analyst
+   ↓
+Writer
+
+Each agent has:
+
+Role
+Goal
+Tools
+Responsibilities
+9. Enterprise Use Case
+MoM Insight 360
+Coordinator Agent
+      │
+ ┌────┼────┬────┐
+ ▼    ▼    ▼    ▼
+Revenue KPI Forecast Reporting
+Agent   Agent Agent Agent
+
+Responsibilities:
+
+Revenue Agent
+→ Analyze revenue
+
+KPI Agent
+→ Calculate metrics
+
+Forecast Agent
+→ Predict future performance
+
+Reporting Agent
+→ Generate executive report
+
+IntelliHire Resume Studio
+Coordinator Agent
+      │
+ ┌────┼────┬────┐
+ ▼    ▼    ▼    ▼
+Resume Skill Ranking Recommendation
+Agent  Agent Agent Agent
+
+Responsibilities:
+
+Resume Agent
+→ Parse resumes
+
+Skill Agent
+→ Match skills
+
+Ranking Agent
+→ Rank candidates
+
+Recommendation Agent
+→ Suggest best fit
+
+Key Takeaways
+
+✅ Agents must communicate
+
+✅ Coordination manages work distribution
+
+✅ Orchestration manages the entire workflow
+
+✅ Supervisor-Worker is the most common architecture
+
+✅ LangGraph and CrewAI are leading frameworks
+
+✅ Multi-Agent Systems are becoming standard in Enterprise AI

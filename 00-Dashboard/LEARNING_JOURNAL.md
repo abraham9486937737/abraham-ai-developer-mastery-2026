@@ -904,3 +904,28 @@ Key concepts learned:
 
 ### Reflection
 Today’s learning helped me understand how enterprise AI systems scale beyond a single agent. Multi-Agent Systems provide a practical architecture for solving large and complex business problems through collaboration between specialized AI agents.
+
+## Day 14 – Multi-Agent Systems (Part 2)
+
+Today I completed the second part of Multi-Agent Systems and learned how multiple AI agents communicate, coordinate, and collaborate to solve complex problems.
+
+Key concepts learned:
+
+- Agent Communication
+- Agent Coordination
+- Agent Orchestration
+- Supervisor-Worker Architecture
+- Sequential Agent Pipelines
+- Parallel Agent Execution
+- Failure Handling Strategies
+- LangGraph for Agent Orchestration
+- CrewAI for Multi-Agent Collaboration
+
+I learned that communication enables agents to share information, coordination manages work distribution, and orchestration controls the overall workflow.
+
+I also explored how enterprise solutions such as MoM Insight 360 and IntelliHire Resume Studio can be designed using multiple specialized agents working together under a coordinator agent.
+
+Key takeaway:
+"Building powerful AI systems is no longer about creating one intelligent agent. It is about designing teams of specialized agents that collaborate effectively."
+
+Status: Day 14 Completed

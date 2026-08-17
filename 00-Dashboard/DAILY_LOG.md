@@ -665,3 +665,32 @@ Gained a strong understanding of how multiple AI agents collaborate to solve com
 ### Status
 ✅ Day 14 Part 1 Completed
 ⏳ Day 14 Part 2 Pending
+
+## Day 14 – Multi-Agent Systems (Part 2)
+
+Date: August 17, 2026
+
+Topics Covered:
+- Agent Communication
+- Agent Coordination
+- Agent Orchestration
+- Supervisor-Worker Pattern
+- Sequential Pipeline Pattern
+- Parallel Agent Pattern
+- Failure Handling Strategies
+- LangGraph Architecture
+- CrewAI Framework
+- Enterprise Multi-Agent Design
+
+Activities Completed:
+- Completed Day 14 Part 2 learning
+- Updated Day-14-Multi-Agent-Systems.md
+- Studied communication and orchestration models
+- Designed enterprise agent workflows
+- Explored LangGraph and CrewAI concepts
+
+Key Learning:
+Communication shares information, coordination manages work, and orchestration manages the entire AI workflow.
+
+Next Step:
+Create LinkedIn post and infographic for Day 14 completion, then move to Day 15.
