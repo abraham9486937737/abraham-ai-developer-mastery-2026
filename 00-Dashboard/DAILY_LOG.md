@@ -694,3 +694,51 @@ Communication shares information, coordination manages work, and orchestration m
 
 Next Step:
 Create LinkedIn post and infographic for Day 14 completion, then move to Day 15.
+
+## Day 15 – Agent Memory & State Management (Part 1)
+
+### Learning Hours
+2 Hours
+
+### Topics Covered
+- Agent Memory Fundamentals
+- Types of Memory
+- State Management
+- Enterprise Agent Architectures
+- LangGraph
+- CrewAI
+- AutoGen
+
+### Key Learnings
+
+✅ AI agents require memory to maintain context
+
+✅ Short-Term Memory supports active tasks
+
+✅ Long-Term Memory stores persistent knowledge
+
+✅ Working Memory assists reasoning
+
+✅ Episodic Memory stores experiences
+
+✅ Semantic Memory stores facts
+
+✅ State Management tracks workflow progress
+
+### Enterprise Understanding
+
+MoM Insight 360:
+- Revenue Memory
+- KPI Memory
+- Dashboard State
+
+IntelliHire Resume Studio:
+- Resume History
+- Candidate Ranking Memory
+- Recruitment Workflow State
+
+### Status
+
+Completed Day 15 – Part 1
+
+Ready for Day 15 – Part 2

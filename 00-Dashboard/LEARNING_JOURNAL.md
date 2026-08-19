@@ -929,3 +929,65 @@ Key takeaway:
 "Building powerful AI systems is no longer about creating one intelligent agent. It is about designing teams of specialized agents that collaborate effectively."
 
 Status: Day 14 Completed
+
+## Day 15 – Agent Memory & State Management (Part 1)
+
+Date: August 2026
+
+### Topics Learned
+- Why AI Agents Need Memory
+- Types of Agent Memory
+- Short-Term Memory
+- Long-Term Memory
+- Working Memory
+- Episodic Memory
+- Semantic Memory
+- State Management Fundamentals
+- Enterprise Memory Architectures
+
+### Key Insights
+
+Memory is what allows AI agents to maintain context, learn from interactions, and execute long-running workflows.
+
+Without memory, agents repeatedly ask the same questions and lose continuity.
+
+State management allows agents to resume work, track progress, and make intelligent decisions based on current workflow status.
+
+### Framework Research
+
+#### LangGraph
+- Built-in State Management
+- Persistent Workflows
+- Workflow Checkpointing
+- Agent Memory Support
+
+#### CrewAI
+- Shared Context
+- Team Collaboration
+- Task Memory
+- Role-Based Agents
+
+#### AutoGen
+- Conversation Memory
+- Agent-to-Agent Communication
+- Multi-Agent State Tracking
+
+### Enterprise Applications
+
+#### MoM Insight 360
+- Revenue trend memory
+- KPI history tracking
+- Dashboard state persistence
+
+#### IntelliHire Resume Studio
+- Resume memory
+- Candidate ranking history
+- Recruitment workflow state tracking
+
+### Biggest Takeaway
+
+Memory helps agents remember.
+
+State helps agents continue.
+
+Memory + State = Intelligent Agent Systems.
