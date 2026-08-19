@@ -991,3 +991,72 @@ Memory helps agents remember.
 State helps agents continue.
 
 Memory + State = Intelligent Agent Systems.
+
+## Day 15 – Agent Memory & State Management
+Date: 18-Aug-2026
+
+Today I completed my learning on Agent Memory & State Management.
+
+Key concepts learned:
+
+- Why AI Agents need memory
+- Short-Term Memory
+- Long-Term Memory
+- Working Memory
+- Episodic Memory
+- Semantic Memory
+- State Management
+- Memory Lifecycle
+- Retrieval Strategies
+- Vector Databases
+- Persistent Memory
+- Agentic RAG + Memory
+- LangGraph Memory
+- CrewAI Memory
+- AutoGen Memory
+
+Major realization:
+
+Memory is what transforms an AI model into an intelligent agent.
+
+Without memory:
+- No continuity
+- No personalization
+- No long-running workflows
+
+With memory:
+- Context retention
+- Better reasoning
+- Workflow recovery
+- Enterprise-scale intelligence
+
+Framework insights:
+
+LangGraph:
+- State management
+- Workflow checkpointing
+- Persistent workflows
+
+CrewAI:
+- Shared team memory
+- Agent collaboration
+
+AutoGen:
+- Conversational memory
+- Multi-agent communication
+
+Enterprise Mapping:
+
+MoM Insight 360:
+- Historical KPI memory
+- Revenue trend memory
+- Forecast memory
+
+IntelliHire Resume Studio:
+- Resume history
+- Candidate ranking memory
+- Hiring decision memory
+
+Key Takeaway:
+
+Memory + State + Reasoning = Intelligent Enterprise AI Agents

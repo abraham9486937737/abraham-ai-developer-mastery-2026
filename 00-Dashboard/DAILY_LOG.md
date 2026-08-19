@@ -742,3 +742,38 @@ IntelliHire Resume Studio:
 Completed Day 15 – Part 1
 
 Ready for Day 15 – Part 2
+
+## Day 15 – Agent Memory & State Management
+Status: Completed
+
+Topics Covered:
+
+Part 1
+- Agent Memory Fundamentals
+- Types of Memory
+- State Management
+- Enterprise Examples
+
+Part 2
+- Memory Lifecycle
+- Retrieval Strategies
+- Vector Databases
+- Persistent Memory
+- Agentic RAG Memory
+- LangGraph Memory
+- CrewAI Memory
+- AutoGen Memory
+
+Files Updated:
+- Day-15-Agent-Memory-State-Management.md
+- LEARNING_JOURNAL.md
+- DAILY_LOG.md
+
+Git Commit:
+Day 15 completed – Agent Memory & State Management
+
+Progress:
+Day 15 / AI Developer Mastery 2026 Completed
+
+Next:
+Day 16 – Planning & Reasoning Systems
