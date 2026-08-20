@@ -777,3 +777,67 @@ Day 15 / AI Developer Mastery 2026 Completed
 
 Next:
 Day 16 – Planning & Reasoning Systems
+
+## Day 16 – Agent Planning, Reasoning & Decision Making
+
+Status: Completed
+
+### Topics Covered
+
+Part 1
+- Agent Planning Fundamentals
+- Goal Decomposition
+- Task Planning
+- Sequential Planning
+- Hierarchical Planning
+- Dynamic Planning
+- Agentic RAG Planning
+
+Part 2
+- Agent Reasoning Fundamentals
+- Chain of Thought
+- Tree of Thoughts
+- ReAct Framework
+- Reflection
+- Self-Correction
+- Decision Making
+- Reasoning Loops
+- Agentic RAG Reasoning
+
+### Key Learnings
+
+✅ Planning converts goals into executable tasks
+
+✅ Goal decomposition breaks complex work into manageable steps
+
+✅ Dynamic planning enables adaptive workflows
+
+✅ Chain of Thought improves step-by-step reasoning
+
+✅ Tree of Thoughts explores multiple solution paths
+
+✅ ReAct combines reasoning and action
+
+✅ Reflection improves output quality
+
+✅ Self-correction reduces errors
+
+✅ Reasoning enables intelligent decision making
+
+### Enterprise Understanding
+
+MoM Insight 360:
+- Automated business planning
+- KPI investigation workflows
+- Revenue root-cause analysis
+
+IntelliHire Resume Studio:
+- Candidate evaluation planning
+- Resume reasoning workflows
+- Intelligent recommendation generation
+
+### Status
+
+Completed Day 16 – Agent Planning, Reasoning & Decision Making
+
+Ready for Day 17 – Reflection & Self-Improving Agents

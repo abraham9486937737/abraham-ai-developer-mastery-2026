@@ -1060,3 +1060,93 @@ IntelliHire Resume Studio:
 Key Takeaway:
 
 Memory + State + Reasoning = Intelligent Enterprise AI Agents
+
+## Day 16 – Agent Planning, Reasoning & Decision Making
+
+Date: August 2026
+
+### Topics Learned
+
+#### Part 1 – Agent Planning Fundamentals
+- What is Planning?
+- Why Planning Matters
+- Goal-Based Execution
+- Goal Decomposition
+- Task Planning
+- Sequential Planning
+- Hierarchical Planning
+- Dynamic Planning
+- Planning in Agentic RAG
+
+#### Part 2 – Agent Reasoning & Decision Making
+- What is Reasoning?
+- Chain of Thought (CoT)
+- Tree of Thoughts (ToT)
+- ReAct Framework
+- Reflection
+- Self-Correction
+- Decision Making
+- Reasoning Loops
+- Reasoning in Agentic RAG
+
+### Key Insights
+
+Planning determines how an agent achieves a goal.
+
+Reasoning determines the best action to take.
+
+Traditional software follows predefined rules, while AI agents create plans, evaluate options, reason through problems, and adapt during execution.
+
+### Framework Research
+
+#### LangGraph
+- Multi-step reasoning workflows
+- Reflection loops
+- State-aware planning
+- Workflow checkpointing
+
+#### CrewAI
+- Team-based reasoning
+- Collaborative planning
+- Role-based decision making
+
+#### AutoGen
+- Conversational reasoning
+- Agent discussions
+- Debate-based decisions
+- Autonomous collaboration
+
+### Enterprise Mapping
+
+#### MoM Insight 360
+Planning:
+- Revenue Analysis
+- KPI Analysis
+- Budget Comparison
+- Forecasting
+
+Reasoning:
+- Root Cause Analysis
+- Revenue Gap Investigation
+- Business Recommendations
+
+#### IntelliHire Resume Studio
+Planning:
+- Job Description Analysis
+- Candidate Evaluation
+- Ranking Workflow
+
+Reasoning:
+- Skill Matching
+- Candidate Comparison
+- Recommendation Generation
+
+### Biggest Takeaway
+
+Memory helps agents remember.
+
+Planning helps agents decide what to do.
+
+Reasoning helps agents decide the best way to do it.
+
+Memory + Planning + Reasoning = Intelligent AI Agents.
