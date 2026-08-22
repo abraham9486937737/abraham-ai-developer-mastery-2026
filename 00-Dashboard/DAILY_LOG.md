@@ -841,3 +841,54 @@ IntelliHire Resume Studio:
 Completed Day 16 – Agent Planning, Reasoning & Decision Making
 
 Ready for Day 17 – Reflection & Self-Improving Agents
+
+## Day 17 – Agent Reflection & Self-Correction
+
+### Status
+✅ Completed
+
+### Learning Hours
+3–4 Hours
+
+### Topics Covered
+
+#### Part 1
+- Agent Reflection Fundamentals
+- Reflection Loops
+- Reflection Types
+- Reflection Workflows
+- Reflection in Agentic RAG
+- Enterprise Reflection Patterns
+
+#### Part 2
+- Self-Correction Systems
+- Error Detection
+- Validation Frameworks
+- Retry Strategies
+- Feedback Loops
+- Human-in-the-Loop Systems
+- Autonomous Improvement Cycles
+
+### Frameworks Reviewed
+
+- LangGraph
+- CrewAI
+- AutoGen
+
+### Key Learning
+
+Reflection allows agents to evaluate their work.
+
+Self-correction allows agents to improve their work.
+
+Together they create reliable, enterprise-ready AI systems capable of continuous improvement.
+
+### Overall Progress
+
+Completed Day 17 successfully.
+
+Current Progress:
+Day 01 → Day 17 ✅
+
+Next:
+Day 18 – Agent Evaluation & Performance Optimization

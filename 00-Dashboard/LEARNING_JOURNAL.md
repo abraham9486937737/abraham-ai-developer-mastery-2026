@@ -1150,3 +1150,90 @@ Planning helps agents decide what to do.
 Reasoning helps agents decide the best way to do it.
 
 Memory + Planning + Reasoning = Intelligent AI Agents.
+
+# Day 17 – Agent Reflection & Self-Correction
+
+## Date
+22-Aug-2026
+
+## Topic
+Agent Reflection & Self-Correction
+
+## What I Learned
+
+Today I learned how advanced AI agents improve their performance through reflection and self-correction.
+
+### Part 1 – Agent Reflection
+
+Key concepts learned:
+
+- Why reflection is important in Agentic AI
+- Reflection loops and iterative improvement
+- Types of reflection:
+  - Output Reflection
+  - Process Reflection
+  - Goal Reflection
+  - Tool Reflection
+- Reflection workflows
+- Reflection in Agentic RAG
+- Enterprise applications of reflective agents
+
+### Part 2 – Self-Correction & Autonomous Improvement
+
+Key concepts learned:
+
+- What self-correction means
+- Error detection mechanisms
+- Validation frameworks
+- Feedback loops
+- Retry strategies
+- Human-in-the-loop correction
+- Autonomous improvement cycles
+- Enterprise-grade reliability patterns
+
+### Frameworks Explored
+
+#### LangGraph
+- Reflection loops
+- State tracking
+- Checkpointing
+- Workflow recovery
+
+#### CrewAI
+- Team feedback
+- Agent collaboration
+- Shared learning
+
+#### AutoGen
+- Agent discussions
+- Multi-agent reviews
+- Self-improvement conversations
+
+### Enterprise Understanding
+
+#### MoM Insight 360
+Reflection can validate:
+- KPI calculations
+- Revenue analysis
+- Forecast accuracy
+- Dashboard insights
+
+#### IntelliHire Resume Studio
+Reflection can validate:
+- Resume parsing
+- Candidate ranking
+- Recommendation quality
+- Hiring decisions
+
+### Biggest Takeaway
+
+Memory helps agents remember.
+
+Planning helps agents decide what to do.
+
+Reasoning helps agents decide how to do it.
+
+Reflection helps agents improve what they have done.
+
+Self-correction transforms AI systems from task executors into continuously improving intelligent systems.
+
