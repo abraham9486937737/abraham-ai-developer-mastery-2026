@@ -932,3 +932,69 @@ Status
 ⏳ Git Push Pending
 
 ⏳ LinkedIn Post Pending
+
+## Day 19 – Agentic RAG (Retrieval Augmented Generation)
+
+### Learning Status
+Completed ✅
+
+### Topics Covered
+
+#### Part 1 – RAG Fundamentals
+
+- LLM Limitations
+- Hallucinations
+- Retrieval Augmented Generation
+- Embeddings
+- Vector Search
+- Vector Databases
+- Traditional RAG Architecture
+- Enterprise RAG Use Cases
+
+#### Part 2 – Agentic RAG
+
+- Retrieval Planning
+- Query Rewriting
+- Multi-Step Retrieval
+- Reflection During Retrieval
+- Tool-Based Retrieval
+- Multi-Agent RAG
+- Enterprise Agentic RAG Architecture
+- MoM Insight 360 Agentic RAG Design
+- IntelliHire Resume Studio Agentic RAG Design
+
+### Frameworks Explored
+
+- LangGraph
+- CrewAI
+- LlamaIndex
+
+### Key Learning
+
+Traditional RAG retrieves information once.
+
+Agentic RAG actively plans retrieval, evaluates results, performs additional searches when required, and uses reasoning before generating responses.
+
+### Practical Understanding
+
+MoM Insight 360:
+- Revenue Analysis
+- KPI Intelligence
+- Forecast Insights
+- Executive Reporting
+
+IntelliHire Resume Studio:
+- Resume Retrieval
+- Skill Matching
+- Candidate Ranking
+- Hiring Recommendations
+
+### Progress Summary
+
+Day 19 Completed Successfully.
+
+Current Focus:
+Building a strong foundation in Enterprise Agentic AI Architecture, Agentic RAG, Multi-Agent Systems, Memory, Planning, Reasoning, Reflection, Evaluation, and Retrieval Intelligence.
+
+Repository Updated:
+Day-19-Agentic-RAG-Foundations.md

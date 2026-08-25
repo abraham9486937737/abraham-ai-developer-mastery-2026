@@ -1306,3 +1306,98 @@ Progress Status
 
 ✅ Day 18 Learning Completed
 
+# Day 19 – Agentic RAG (Retrieval Augmented Generation)
+
+Date: August 2026
+
+## Topic Studied
+Agentic RAG (Retrieval Augmented Generation)
+
+## What I Learned
+
+Today I learned one of the most important concepts in modern Enterprise AI – Agentic RAG.
+
+In Part 1, I understood how traditional Large Language Models have limitations such as hallucinations, outdated knowledge, and lack of access to enterprise data.
+
+I learned:
+
+- What RAG (Retrieval Augmented Generation) is
+- Why RAG reduces hallucinations
+- Embeddings and Vector Search
+- Vector Databases
+- Traditional RAG Architecture
+- Enterprise RAG Systems
+
+I also learned how RAG combines retrieval and generation to provide more accurate and context-aware responses.
+
+In Part 2, I explored Agentic RAG.
+
+I learned how intelligent agents can:
+
+- Plan retrieval strategies
+- Rewrite user queries
+- Perform multi-step retrieval
+- Use tools during retrieval
+- Reflect on retrieved results
+- Retrieve additional information when necessary
+
+I understood the difference between Traditional RAG and Agentic RAG.
+
+Traditional RAG performs a single retrieval.
+
+Agentic RAG performs intelligent retrieval planning, reasoning, reflection, and iterative knowledge discovery.
+
+## Enterprise Insights
+
+### MoM Insight 360
+
+Agentic RAG can help executives retrieve:
+
+- Revenue trends
+- KPI performance
+- Forecast reports
+- Doctor performance
+- Branch-level insights
+
+while automatically identifying root causes behind business outcomes.
+
+### IntelliHire Resume Studio
+
+Agentic RAG can:
+
+- Retrieve resumes
+- Match skills
+- Rank candidates
+- Analyze historical hiring decisions
+- Recommend best-fit candidates
+
+using multiple specialized retrieval agents.
+
+## Frameworks Researched
+
+### LangGraph
+
+- State Management
+- Multi-Step Retrieval
+- Reflection Loops
+- Agentic RAG Workflows
+
+### CrewAI
+
+- Collaborative Retrieval
+- Multi-Agent Reasoning
+- Shared Context
+
+### LlamaIndex
+
+- Knowledge Indexing
+- Advanced Retrieval
+- Enterprise Search
+
+## Key Takeaway
+
+Traditional RAG retrieves information.
+
+Agentic RAG intelligently plans, retrieves, evaluates, reflects, and reasons before generating answers.
+
+Agentic RAG represents the next evolution of enterprise knowledge systems and is becoming the foundation of modern AI applications.
