@@ -1463,3 +1463,79 @@ Traditional systems retrieve data and apply business rules.
 Agentic systems retrieve knowledge, reason about information, validate outputs, and generate intelligent recommendations.
 
 This learning has helped me understand how future enterprise applications will evolve from rule-based systems into intelligent, autonomous decision-support platforms.
+
+Day 21 – Agent Architecture Patterns
+
+Date: 28-08-2026
+
+What I Learned
+
+Today I learned how AI agents are organized and structured using architecture patterns.
+
+I understood that building a successful AI system is not only about creating intelligent agents but also about designing how those agents communicate, collaborate, and coordinate with each other.
+
+I learned the difference between Single-Agent and Multi-Agent architectures and explored several enterprise-grade patterns including:
+
+Supervisor Pattern
+Router Pattern
+Planner Pattern
+Reflection Pattern
+Hierarchical Architecture
+Swarm Architecture
+Human-in-the-Loop Architecture
+
+I also learned how modern frameworks such as LangGraph, CrewAI, and AutoGen implement these architecture patterns.
+
+Key Realizations
+
+The biggest realization today was that Agent Architecture is very similar to organizational structures used in enterprises.
+
+A Supervisor Agent acts like a manager.
+
+Specialized agents act like departments or team members.
+
+The architecture determines how information flows and how decisions are made.
+
+This made AI Agent systems feel very similar to designing enterprise software systems and business workflows.
+
+Enterprise Application Ideas
+MoM Insight 360
+
+Potential Architecture:
+
+Executive Dashboard Agent
+Revenue Agent
+KPI Agent
+Forecast Agent
+Alert Agent
+Reporting Agent
+
+Using Supervisor + Planner + Reflection patterns.
+
+IntelliHire Resume Studio
+
+Potential Architecture:
+
+Recruitment Supervisor Agent
+Resume Agent
+Skill Matching Agent
+Ranking Agent
+Recommendation Agent
+
+Using Router + Planner + Reflection patterns.
+
+Skills Gained
+Agent Architecture Design
+Multi-Agent Coordination
+Enterprise AI Design Thinking
+Architecture Pattern Selection
+AI Workflow Modeling
+Day 21 Status
+
+✅ Part 1 Completed
+
+✅ Part 2 Completed
+
+✅ Architecture Patterns Understood
+
+✅ Enterprise Use Cases Mapped
