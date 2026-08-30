@@ -1539,3 +1539,115 @@ Day 21 Status
 ✅ Architecture Patterns Understood
 
 ✅ Enterprise Use Cases Mapped
+
+Day 22 – Agent Tools, Function Calling & MCP
+
+Date: 30-Aug-2026
+
+Topic Studied
+Agent Tools & Tool Calling Fundamentals
+Advanced Tool Calling
+Function Calling
+Structured Outputs
+Tool Routing
+Multi-Tool Agents
+Dynamic Tool Selection
+Model Context Protocol (MCP)
+Key Concepts Learned
+
+Today I learned how AI Agents interact with external systems using tools.
+
+A Large Language Model can generate text and reasoning, but it cannot directly access databases, APIs, files, or business applications. AI Agents overcome this limitation through Tool Calling.
+
+I learned:
+
+Difference between LLMs and AI Agents
+Tool Calling architecture
+Function Calling concepts
+Structured Outputs using JSON
+Tool Routing and Tool Selection
+Multi-Tool Agent Workflows
+Dynamic Tool Selection
+MCP (Model Context Protocol)
+Most Important Realization
+
+AI Agents become valuable only when they can interact with real-world systems.
+
+Without tools:
+
+Knowledge Only
+
+With tools:
+
+Knowledge + Action
+
+Tool Calling transforms an AI model into an intelligent digital worker capable of interacting with databases, APIs, files, dashboards, and enterprise applications.
+
+Enterprise Connection
+MoM Insight 360
+
+Agent Tools:
+
+SQL Server
+Power BI
+Forecast Engine
+Email Service
+
+Workflow:
+
+Revenue Data
+    ↓
+KPI Calculation
+    ↓
+Forecast
+    ↓
+Dashboard
+    ↓
+Email Report
+IntelliHire Resume Studio
+
+Agent Tools:
+
+Resume Parser
+Vector Database
+Skill Matching Engine
+Email Service
+
+Workflow:
+
+Resume
+   ↓
+Skill Match
+   ↓
+Ranking
+   ↓
+Recommendation
+   ↓
+Recruiter Notification
+MCP Understanding
+
+MCP is becoming a standard protocol that allows AI Agents to communicate with enterprise systems through a common interface.
+
+I understood MCP as:
+
+USB Standard
+        ↓
+For AI Applications
+
+This concept helped me understand the future direction of enterprise AI integration.
+
+Key Takeaway
+
+Memory helps agents remember.
+
+Planning helps agents decide.
+
+Reasoning helps agents think.
+
+Reflection helps agents improve.
+
+RAG helps agents find knowledge.
+
+Tool Calling helps agents act.
+
+MCP helps agents connect AI to the real world.
