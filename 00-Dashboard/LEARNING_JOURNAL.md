@@ -2095,3 +2095,38 @@ It supports planning, budgeting, resource allocation, and strategic decision-mak
 ## Status
 
 Day 34 Completed Successfully.
+
+## Day 35 – Validation Agent Design
+
+Today I designed the Validation Intelligence Agent for MoM Insight 360.
+
+The Validation Agent is the first and most important agent in the architecture because all other agents depend on accurate and reliable data.
+
+I learned that enterprise AI systems cannot rely solely on AI models and prompts. Data quality plays a critical role in ensuring trustworthy business insights.
+
+### Topics Covered
+
+- Data Quality Validation
+- Missing Value Checks
+- Duplicate Detection
+- Revenue Validation
+- KPI Validation
+- Business Rule Validation
+- Master Data Validation
+- Validation Reporting
+
+### Key Realization
+
+Revenue, KPI, Forecasting, and Reporting Agents are only as good as the data they receive.
+
+A Validation Agent protects the system from incorrect calculations, misleading insights, and poor business decisions.
+
+### Enterprise Perspective
+
+The Validation Agent acts as the quality gatekeeper of MoM Insight 360.
+
+Its purpose is to ensure that all downstream agents work with trusted and validated business data.
+
+### Status
+
+Day 35 Completed Successfully.
